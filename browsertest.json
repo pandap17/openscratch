@@ -1,0 +1,12 @@
+{
+    "Parameters": [
+        {
+            "Name": "Url",
+            "Value": "https://google.com"
+        },
+        {
+            "Name": "StoreFile",
+            "Value": true
+        }
+    ]
+}
